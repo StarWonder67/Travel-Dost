@@ -30,6 +30,6 @@ export default makeStyles((theme) => ({
     display: 'flex', justifyContent: 'space-between',
   },
   appbar: {
-      backgroundColor: 'rgba(0,0,0,0.85)',
+      backgroundColor: 'rgba(0,0,0,0.85)'
   }
 }));
